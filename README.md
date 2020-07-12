@@ -4,9 +4,9 @@
 ### 👉 If you like this repo then please give it a ⭐️
 
 ## Screenshots
-<img src="Screenshots/a.png" />
-<img src="Screenshots/b.png" />
-<img src="Screenshots/c.png" />
+<img src="Screenshots/1.png" />
+<img src="Screenshots/2.png" />
+<img src="Screenshots/3.png" />
 
 ## To test this out
 Testing this is as simple as it gets. Follow this steps:
