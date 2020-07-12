@@ -1,5 +1,5 @@
 # Linear-App
-### An ANN model is build and trained and exported to tflite format. Then it is integrated to Android App.
+### An ANN model is built and trained and exported to tflite format. Then it is integrated into Android App.
 
 ### 👉 If you like this repo then please give it a ⭐️
 
